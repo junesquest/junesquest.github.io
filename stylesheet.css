@@ -1,0 +1,25 @@
+div {
+  border: 2px solid black;
+  border-radius: 25%;
+  text-align: center;
+}
+
+.header {
+  background-color: #99ccff;
+  display: block;
+}
+
+.links {
+  background-color: #0059b3;
+  display: inline-block;
+}
+
+div a {
+  color: white;
+  text-decoration: none;
+}
+
+a: hover {
+  text-decoration: underline;
+}
+  
