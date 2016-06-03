@@ -1,14 +1,17 @@
+* {
+  font-family: "Palatino Linotype", sans-serif;
+}
+
 div {
   border: 2px solid black;
   border-radius: 10px;
   text-align: center;
-  font-family: Garamond;
 }
 
 .header {
   background-color: #99ccff;
   display: block;
-  font-size: 4em;
+  font-size: 3.5em;
   width: 100%;
 }
 
@@ -16,6 +19,7 @@ div {
   width: 100%;
   display: table;
   table-layout: fixed;
+  border: none;
 }  
 
 .links {
@@ -33,8 +37,7 @@ a:hover {
 }
   
 p {
-  font-family: Tahoma;
-  font-size: 1.25em;
+  font-size: 1em;
 }
 
 div p a {
