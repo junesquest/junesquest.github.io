@@ -1,17 +1,14 @@
-* {
-  font-family: "Palatino Linotype", sans-serif;
-}
-
 div {
-  border: 2px solid black;
-  border-radius: 10px;
   text-align: center;
+  font-family: Georgia;
 }
 
 .header {
+  border: 2px solid black;
+  border-radius: 10px;
   background-color: #99ccff;
   display: block;
-  font-size: 3.5em;
+  font-size: 3em;
   width: 100%;
 }
 
@@ -23,6 +20,8 @@ div {
 }  
 
 .links {
+  border: 2px solid black;
+  border-radius: 10px;
   background-color: #0059b3;
   display: table-cell;
 }
