@@ -74,6 +74,10 @@ table {
   border: 1px solid black;
 }
 
+td {
+  border: 1px solid black;
+}
+
 h6 {
   text-align: left;
   font-size: 1.1em;
