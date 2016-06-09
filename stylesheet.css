@@ -50,7 +50,7 @@ h6 {
 
 div p a {
   color: black;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 table {
